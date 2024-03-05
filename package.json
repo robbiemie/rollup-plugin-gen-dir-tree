@@ -1,0 +1,16 @@
+{
+  "name": "rollup-plugin-gen-dir-tree",
+  "version": "1.0.0",
+  "description": "A rollup plugin for generate director tree.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^4.12.0"
+  }
+}
